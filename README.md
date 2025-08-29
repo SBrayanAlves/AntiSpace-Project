@@ -3,7 +3,7 @@
 ## 📍About:
 AntiSpace is my first project, built with a focus on Python and modern backend development practices.
 
-## ⚙️Tecnologicas:
+## ⚙️technologies:
 - Python 
 - Poetry - dependency management
 - FastAPI - web framework
